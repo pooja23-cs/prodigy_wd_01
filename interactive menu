@@ -19,8 +19,8 @@
 
   <div class="content">
     <!-- Placeholder content to enable scrolling -->
-    <section><h1>Welcome</h1><p>Scroll down to see the nav effect.</p></section>
-    <section><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam.</p></section>
+    <section><h1>Welcome</h1><p>Click on the menu items to see the nav effect.</p></section>
+    <section><p>A Web Page where the color of the menu font will chane when click on them.</p></section>
     <section><p>Another section...</p></section>
     <section><p>Keep scrolling...</p></section>
     <section><p>Almost there...</p></section>
